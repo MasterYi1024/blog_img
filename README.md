@@ -1,2 +1,2 @@
 # blog_img
-images on my blog
+images in my blog
